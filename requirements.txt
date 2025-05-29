@@ -1,0 +1,7 @@
+torch
+torchvision
+scikit-learn
+gdown
+matplotlib
+timm
+tqdm
